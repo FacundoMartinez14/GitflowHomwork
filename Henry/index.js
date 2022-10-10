@@ -1,1 +1,2 @@
-Hola
+
+console.log("Hola")
