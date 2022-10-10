@@ -1,3 +1,21 @@
+
+
+console.log("hola mundo");
+
+
+console.log("Nuevo request")
+
+
+console.log("Hola")
+
+console.log("Andres");
+
+console.log('hola mundo');
+function name(params) {
+	console.log('hola 3');
+}
+
+
 let toBinaryHex=(numero)=>{
     let result;
     if(numero%2===0){
@@ -8,3 +26,4 @@ let toBinaryHex=(numero)=>{
         return result
     }
 }
+
