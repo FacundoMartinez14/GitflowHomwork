@@ -1,3 +1,8 @@
+
+console.log("hola mundo");
+console.log("ema");
+
+
 let toBinaryHex=(numero)=>{
     let result;
     if(numero%2===0){
@@ -8,3 +13,4 @@ let toBinaryHex=(numero)=>{
         return result
     }
 }
+
